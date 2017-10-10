@@ -1,0 +1,15 @@
+##服务配置
+server: 
+  port: 8080
+
+##微信公众号配置
+wechat:  #测试号
+  appid: 
+  secret: 
+  
+    
+##日志配置
+logging:
+  level:
+    com:
+      yangjie: debug
